@@ -71,6 +71,7 @@ image: /assets/images/profile.jpg
 
 
 ### Publication　出版
+
 #### Journal　学術論文
 - 宮藤詩緒, 佐藤俊樹, 小池英樹,「DisplayBowl: 半透過凹型半球面ディスプレイの試作と評価」, コンピュータソフトウェア, 日本ソフトウェア科学会, 37巻1号p.1_114-1_124, 2020.
 
@@ -87,9 +88,9 @@ image: /assets/images/profile.jpg
 
 - Shio Miyafuji, Florian Perteneder, Toshiki Sato, Hideki Koike, and Gudrun Klinker. 2019. A Bowl-Shaped Display for Controlling Remote Vehicles. In Proceedings of the 17th International Conference on Virtual-Reality Continuum and its Applications in Industry (VRCAI '19). Association for Computing Machinery, New York, NY, USA, Article 10, 1–8. [https://doi.org/10.1145/3359997.3365706](https://doi.org/10.1145/3359997.3365706)
 
-- Mark Chignell, Henrique Matulis, Bella Zhang, Jacqueline Urakami, Shio Miyafuji, Zhengqing Li, Hideki Koike:“Immersiveness and Perceptibility of Convex and Concave Displays”, IEA International Conference, Human Factors and Ergonomics Society (HFES '19), Seattle, Washington, USA, November 2019. (採択済み・2019年11月開催)
+- Mark Chignell, Henrique Matulis, Bella Zhang, Jacqueline Urakami, Shio Miyafuji, Zhengqing Li, Hideki Koike:“Immersiveness and Perceptibility of Convex and Concave Displays”, IEA International Conference, Human Factors and Ergonomics Society (HFES '19), Seattle, Washington, USA, November 2019. 
 
-- Zhengqing Li, Shio Miyafuji, Erwin Wu, Toshiki Sato, Hideaki Kuzuoka, Hideki Koike:“OmniGlobe: An Interactive I/O System For Symmetric 360-Degree Video Communication”, ACM International Conference, Designing Interactive Systems Conference (DIS '19), San Diego, California, USA, June 2019.(採択済み・2019年6月開催)
+- Zhengqing Li, Shio Miyafuji, Erwin Wu, Toshiki Sato, Hideaki Kuzuoka, Hideki Koike:“OmniGlobe: An Interactive I/O System For Symmetric 360-Degree Video Communication”, ACM International Conference, Designing Interactive Systems Conference (DIS '19), San Diego, California, USA, June 2019.
 
 - Zhengqing Li, Shio Miyafuji, Toshiki Sato, Hideki Koike, Naomi Yamashita, Hideaki Kuzuoka:“How Display Shapes Affect 360-Degree Panoramic Video Communication”, ACM, Designing Interactive Systems Conference (DIS '18), pp.845-856, Hong Kong, China, June 2018. 
 
@@ -100,6 +101,7 @@ image: /assets/images/profile.jpg
 - Shio Miyafuji, Masato Sugasaki, Hideki Koike:“Ballumiere: Real-time Tracking and Projection System for High-Speed Flying Balls”, ACM International Conference, Interactive Surfaces and Spaces (ISS ’16).ACM, pp.33–37, Niagara Falls, Ontario, Canada, November 2016.
 
 #### Demo and Poster　学会論文（デモ・ポスター）
+
 ##### Demo
 - Zhengqing Li, Shio Miyafuji, Erwin Wu, Toshiki Sato, Hideaki Kuzuoka, Hideki Koike:“OmniEyeball: An Interactive I/O Device For 360-Degree Video Communication.”, ACM, Interactive Surfaces and Spaces (ISS '18), pp.429-432, Tokyo, Japan, November 2018.
 
