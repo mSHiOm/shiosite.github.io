@@ -22,7 +22,9 @@ image: /assets/images/profile.jpg
 
 [Research Funds](#research-funds-競争的資金獲得)
 
+
 [Awards and Invited Talk/Demo](#awards-and-invited-talkdemo-表彰歴・招待講演招待デモ)
+
 
 [Publication](#publication-出版)
 
