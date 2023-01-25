@@ -18,11 +18,13 @@ image: /assets/images/profile.jpg
 
 [Education](#education-学歴)
 
-[Academic Activity](#academic-activity)
+[Academic Activity](#academic-activity-学術活動)
 
-[Awards and Research Funds](#awards-and-research-funds-表彰歴・競争的資金獲得等)
+[Research Funds](#research-funds-競争的資金獲得)
 
-[Publication](#publish)
+[Awards and Invited Talk/Demo](#awards-and-invited-talkdemo-表彰歴・招待講演招待デモ)
+
+[Publication](#publication-出版)
 
 ### Work Experience 職務経歴
 - 2018 - 2020 Research Fellowship for Young Scientists DC2
@@ -80,6 +82,7 @@ image: /assets/images/profile.jpg
 - 宮藤詩緒, 佐藤俊樹, Li Zhengqing, 小池英樹. 「Qoom: 球体形インタラクティブディスプレイ」, コンピュータソフトウェア, 日本ソフトウェア科学会, Vol. 35, No. 2, Apr. 2018. 
 
 #### Conference Paper　学会論文
+
 - Ruopeng Xu, Toshiki Sato, Shio Miyafuji, and Hideki Koike. 2022. OmniLantern: Design and Implementations of a Portable and Coaxial Omnidirectional Projector-Camera System. In Proceedings of the 2022 International Conference on Advanced Visual Interfaces (AVI 2022). Association for Computing Machinery, New York, NY, USA, Article 13, 1–5. [https://doi.org/10.1145/3531073.3531126](https://doi.org/10.1145/3531073.3531126)
 
 - Mikihito Matsuura, Shio Miyafuji, Erwin Wu, Satoshi Kiyofuji, Taichi Kin, Takeo Igarashi, and Hideki Koike. 2021. CV-Based Analysis for Microscopic Gauze Suturing Training. In Augmented Humans Conference 2021 (AHs'21). Association for Computing Machinery, New York, NY, USA, 169–173. [doi](https://doi.org/10.1145/3458709.3458991)
