@@ -8,8 +8,10 @@ image: /assets/images/profile.jpg
 
 
 
-## Shio Miyafuji &emsp;　宮藤 詩緒
-<!-- ![]({{page.r_image}}) -->
+## Shio Miyafuji 
+## 宮藤 詩緒
+
+<br>
 
 ### CV
 [Work Experiecnce](#work-experience-職務経歴)
@@ -20,11 +22,11 @@ image: /assets/images/profile.jpg
 
 [Awards and Research Funds](#awards-and-research-funds-表彰歴・競争的資金獲得等)
 
-[Publish](#publish)
+[Publication](#publish)
 
 ### Work Experience 職務経歴
-- DC2
-- Assistant Professor in School of Computing, Tokyo Institute of Technology
+- 2018 - 2020 Research Fellowship for Young Scientists DC2
+- 2020 - &emsp;&ensp;　Assistant Professor in School of Computing, Tokyo Institute of Technology
 - Visiting Researcher
     - 2018 Apr. - 2018 Jun.: Prof. Mark Chignell's lab, University of Tront
     - 2018 Oct. - 2019 Jan.: Prof. Gudrun Klinker's lab, Technical University in Munich
@@ -41,12 +43,14 @@ image: /assets/images/profile.jpg
 - 博士：東京工業大学 情報理工学院 情報工学系　博士課程修了 (2020)
 
 ### Academic Activity 学術活動
+
 #### Committee Service 学会運営
 - 2018 - 2020 情報処理学会ヒューマンコンピュータインタラクション研究会　学生運営委員
 - 2019 - 2021 ACM CHI Symposium, Asian CHI Symposium Organizer
-- 2020 -      Interaction Web委員
+- 2020 - &emsp;&ensp; Interaction Web委員
 - CHI2021 SNS
 - WISS ボランティア委員
+
 #### Professional Societies 所属学会
 - ACM
 - 情報処理学会ヒューマンコンピュータインタラクション研究会

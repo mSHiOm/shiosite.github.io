@@ -5,7 +5,6 @@
 layout: home
 image: /assets/images/home.jpg
 ---
-
 # Shio Miyafuji
 Tokyo Institute of Technology<br>
 School of Computing<br>
