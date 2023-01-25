@@ -1,0 +1,25 @@
+---
+layout: post
+title:  "Qoom"
+date:   2016-12-01 00:00:00 +0900
+categories: projects
+image: /assets/images/qoom.jpg
+---
+
+
+
+![]({{ page.image }})
+
+#### Abstract
+We present a sphere-shaped interactive display system, named Qoom, as a new input and output device. Unlike existing sphere-shaped displays, Qoom is a perfectly spherical ball that can be rotated, thrown, or even kicked. First, we discuss how spherical displays can be used in daily life and describe how users interact with spheres. Then, we show how we developed the Qoom prototype that uses touch and rotation detection, real-time object tracking, and spherical projection mapping. We implemented actions including touching, rotating, bouncing and throwing as controls. We also developed applications for Qoom that utilize the unique advantages of ball displays.
+
+***
+
+#### Video
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NrTjGj1isLc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+***
+
+#### Citarion format
+Shio Miyafuji, Toshiki Sato, Zhengqing Li, and Hideki Koike. 2017. Qoom: An Interactive Omnidirectional Ball Display. In Proceedings of the 30th Annual ACM Symposium on User Interface Software and Technology (UIST '17). Association for Computing Machinery, New York, NY, USA, 599–609. https://doi.org/10.1145/3126594.3126607  
