@@ -72,7 +72,7 @@ image: /assets/images/profile.jpg
 
 
 
-### Publication　出版
+### Publication 出版
 
 #### Journal　学術論文
 - 宮藤詩緒, 佐藤俊樹, 小池英樹,「DisplayBowl: 半透過凹型半球面ディスプレイの試作と評価」, コンピュータソフトウェア, 日本ソフトウェア科学会, 37巻1号p.1_114-1_124, 2020.
