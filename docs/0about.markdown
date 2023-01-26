@@ -10,6 +10,18 @@ image: /assets/images/profile.jpg
 
 ## Shio Miyafuji 
 ## 宮藤 詩緒
+Tokyo Institute of Technology
+School of Computing<br>
+Assistant Professor at [Koike Lab](https://www.vogue.cs.titech.ac.jp/top)
+<br>
+東京工業大学情報理工学院 情報工学系<br>
+[小池研究室](https://www.vogue.cs.titech.ac.jp/top) 助教<br>
+<br>
+Publication 論文一覧：
+[Google Scholar Citation](https://scholar.google.com/citations?user=SuyJiqEAAAAJ&hl=ja&authuser=2&oi=ao) 
+/ 
+[Publication](#publication-出版)
+
 
 <br>
 
@@ -22,9 +34,7 @@ image: /assets/images/profile.jpg
 
 [Research Funds](#research-funds-競争的資金獲得)
 
-
-[Awards and Invited Talk/Demo](#awards-and-invited-talkdemo-表彰歴・招待講演招待デモ)
-
+[Awards and Invited Talk / Invited Demo](#awards-and-invited-talk--invited-demo-表彰歴･招待講演招待デモ)
 
 [Publication](#publication-出版)
 
@@ -68,7 +78,7 @@ image: /assets/images/profile.jpg
 - 2020 日本学術振興会 科研費 若手研究
 - 2020 科学技術振興機構(JST) CREST AIPチャレンジプログラム 
 
-### Awards and Invited Talk/Demo 表彰歴・招待講演/招待デモ
+### Awards and Invited Talk / Invited Demo 表彰歴･招待講演/招待デモ
 - 2018 情報処理学会 第176回ヒューマンコンピュータインタラクション研究会　招待講演
 - 2016 Invited Demo at 18th Laval Virtual 2016
 
