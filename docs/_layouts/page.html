@@ -13,7 +13,8 @@ layout: default
             {%- for post in site.posts -%}
             <li>
               {%- if post.image -%}
-                <img src="{{- post.image | relative_url -}}" alt="" >
+                <img src="{{- post.image | relative_url -}}" alt="" class="blog-roll-image {
+                  " >
               {%- else -%}
                 {%- assign postImage = "/assets/images/image-default.jpg" -%}
                 <img src="{{- postImage | relative_url -}}" alt="" >

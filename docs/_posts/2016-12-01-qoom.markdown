@@ -22,4 +22,4 @@ We present a sphere-shaped interactive display system, named Qoom, as a new inpu
 ***
 
 #### Citarion format
-Shio Miyafuji, Toshiki Sato, Zhengqing Li, and Hideki Koike. 2017. Qoom: An Interactive Omnidirectional Ball Display. In Proceedings of the 30th Annual ACM Symposium on User Interface Software and Technology (UIST '17). Association for Computing Machinery, New York, NY, USA, 599–609. https://doi.org/10.1145/3126594.3126607  
+Shio Miyafuji, Toshiki Sato, Zhengqing Li, and Hideki Koike. 2017. Qoom: An Interactive Omnidirectional Ball Display. In Proceedings of the 30th Annual ACM Symposium on User Interface Software and Technology (UIST '17). Association for Computing Machinery, New York, NY, USA, 599–609. [https://doi.org/10.1145/3126594.3126607](https://doi.org/10.1145/3126594.3126607)

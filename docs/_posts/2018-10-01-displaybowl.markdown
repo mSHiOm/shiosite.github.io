@@ -18,5 +18,5 @@ This paper proposes a bowl-shaped hemispherical display to observe omnidirection
 
 ***
 
-#### Citarion format
-Shio Miyafuji, Florian Perteneder, Toshiki Sato, Hideki Koike, and Gudrun Klinker. 2019. A Bowl-Shaped Display for Controlling Remote Vehicles. In Proceedings of the 17th International Conference on Virtual-Reality Continuum and its Applications in Industry (VRCAI '19). Association for Computing Machinery, New York, NY, USA, Article 10, 1–8. https://doi.org/10.1145/3359997.3365706
+#### Citarion Format
+Shio Miyafuji, Florian Perteneder, Toshiki Sato, Hideki Koike, and Gudrun Klinker. 2019. A Bowl-Shaped Display for Controlling Remote Vehicles. In Proceedings of the 17th International Conference on Virtual-Reality Continuum and its Applications in Industry (VRCAI '19). Association for Computing Machinery, New York, NY, USA, Article 10, 1–8. [https://doi.org/10.1145/3359997.3365706]([https://doi.org/10.1145/3359997.3365706])

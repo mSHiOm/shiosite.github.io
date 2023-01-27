@@ -21,4 +21,4 @@ Projections on moving objects have a problem in that the projection may slip bec
 ***
 
 #### Citarion format
-Shio Miyafuji, Masato Sugasaki, and Hideki Koike. 2016. Ballumiere: Real-Time Tracking and Spherical Projection for High-Speed Moving Balls. In Proceedings of the 2016 ACM International Conference on Interactive Surfaces and Spaces (ISS '16). Association for Computing Machinery, New York, NY, USA, 33–37. https://doi.org/10.1145/2992154.2992181
+Shio Miyafuji, Masato Sugasaki, and Hideki Koike. 2016. Ballumiere: Real-Time Tracking and Spherical Projection for High-Speed Moving Balls. In Proceedings of the 2016 ACM International Conference on Interactive Surfaces and Spaces (ISS '16). Association for Computing Machinery, New York, NY, USA, 33–37. [https://doi.org/10.1145/2992154.2992181](https://doi.org/10.1145/2992154.2992181)
