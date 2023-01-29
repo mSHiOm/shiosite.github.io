@@ -7,31 +7,32 @@ layout: default
   {%- endif -%}
 
   {{ content }}
-    {%- if site.posts.size > 0 -%}
-        <ul class="post-list">
-          <div class = "grid">
-            {%- for post in site.posts -%}
-            <li>
-              {%- if post.image -%}
-                <img src="{{- post.image | relative_url -}}" alt="" class="blog-roll-image {
-                  " >
-              {%- else -%}
-                {%- assign postImage = "/assets/images/image-default.jpg" -%}
-                <img src="{{- postImage | relative_url -}}" alt="" >
-              {%- endif -%}
-              {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-              <span class="post-meta">{{ post.date | date: date_format }}</span>
-              <h3>
-                <a class="post-link" href="{{ post.url | relative_url }}">
-                  {{ post.title | escape }}
-                </a>
-              </h3>
-              {%- if site.show_excerpts -%}
-                {{ post.excerpt }}
-              {%- endif -%}
-            </li>
-            {%- endfor -%}
-          <div class = "grid">
-        </ul>
+
+  {%- if site.posts.size > 0 -%}
+    <ul class="post-list">
+      <div class = "grid">
+        {%- for post in site.posts -%}
+        <li>
+          {%- if post.image -%}
+            <img src="{{- post.image | relative_url -}}" alt="" class="blog-roll-image {
+              " >
+          {%- else -%}
+            {%- assign postImage = "/assets/images/image-default.jpg" -%}
+            <img src="{{- postImage | relative_url -}}" alt="" >
+          {%- endif -%}
+          {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+          <span class="post-meta">{{ post.date | date: date_format }}</span>
+          <h3>
+            <a class="post-link" href="{{ post.url | relative_url }}">
+              {{ post.title | escape }}
+            </a>
+          </h3>
+          {%- if site.show_excerpts -%}
+            {{ post.excerpt }}
+          {%- endif -%}
+        </li>
+        {%- endfor -%}
+      <div class = "grid">
+    </ul>
     {%- endif -%}
 </div>

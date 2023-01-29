@@ -1,12 +1,7 @@
 ---
 layout: default
 ---
-
 <div class="home-grid">
-    <!-- {%- if page.title -%}
-      <h1 class="page-heading">{{ page.title }}</h1>
-    {%- endif -%} -->
-    
     {%- if page.image -%}
       <img src="{{- page.image | relative_url -}}" alt="" class="home-image-post">
     {%- endif -%}
@@ -14,34 +9,4 @@ layout: default
     <sub>
       {{ content }}
     </sub>
-    <!-- {{ content }} -->
-
-      <!-- {%- if site.posts.size > 0 -%}
-        <h2 class="post-list-heading">{{ page.list_title | default: "Projects" }}</h2>
-          <ul class="post-list">
-            <div class = "grid">
-              {%- for post in site.posts -%}
-              <li>
-                {%- if post.image -%}
-                  <img src="{{- post.image | relative_url -}}" alt="" >
-                {%- else -%}
-                  {%- assign postImage = "/assets/images/image-default.jpg" -%}
-                  <img src="{{- postImage | relative_url -}}" alt="" >
-                {%- endif -%}
-                {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-                <span class="post-meta">{{ post.date | date: date_format }}</span>
-                <h3>
-                  <a class="post-link" href="{{ post.url | relative_url }}">
-                    {{ post.title | escape }}
-                  </a>
-                </h3>
-                {%- if site.show_excerpts -%}
-                  {{ post.excerpt }}
-                {%- endif -%}
-              </li>
-              {%- endfor -%}
-            <div class = "grid">
-          </ul>
-        <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
-      {%- endif -%} -->
 </div>
