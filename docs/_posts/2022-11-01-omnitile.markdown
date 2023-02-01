@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "OmniTile"
+date:   2022-11-01 00:28:00 +0900
+categories: projects
+image: /assets/images/omnitile.jpg
+---
+
+![]({{ page.image }})
+![](/assets/images/omnitileConcept.jpg)
+
+#### Main Contributor: Jana Hoffard
+
+#### Abstract
+We present OmniTiles, a manually changeable interface that enables the user to customize their own display. This is achieved by using tiles in basic shapes that are clipped together via magnets. The created structures are then placed on top of a cameraprojector set up to track the single tiles and project onto them. The generation of different structures requires no activation mechanism or prior technical knowledge by the user. The 3D printed tiles are robust and cost-efficient, making the system particularly suited for non-experts such as families with children. First, we explain the creation process of our tiles and the implementation of the system. We then demonstrate the flexibility of our system via applications unique to our tile approach and discuss the limitations and future plans for our system.
+
+***
+
+#### Citarion format
+1. Jana Hoffard, Shio Miyafuji, Jefferson Pardomuan, Toshiki Sato, Hideki Koike. 2022. OmniTiles-A User-Customizable Display Using An Omni-Directional Camera Projector System. In Proceedings of the 2022 ICAT-EGVE 2022 - International Conference on Artificial Reality and Telexistence and Eurographics Symposium on Virtual Environments (ICAT-EVCG2022). The Eurographics Association. pp.149-158. [https://diglib.eg.org:443/handle/10.2312/egve20221286](https://diglib.eg.org:443/handle/10.2312/egve20221286)

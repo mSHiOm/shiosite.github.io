@@ -103,6 +103,8 @@ Publication 論文一覧：
 
 ##### International Conference
 
+- Jana Hoffard, Shio Miyafuji, Jefferson Pardomuan, Toshiki Sato, Hideki Koike. 2022. OmniTiles-A User-Customizable Display Using An Omni-Directional Camera Projector System. In Proceedings of the 2022 ICAT-EGVE 2022 - International Conference on Artificial Reality and Telexistence and Eurographics Symposium on Virtual Environments (ICAT-EVCG2022). The Eurographics Association. pp.149-158. [https://diglib.eg.org:443/handle/10.2312/egve20221286](https://diglib.eg.org:443/handle/10.2312/egve20221286)
+
 - Ruopeng Xu, Toshiki Sato, Shio Miyafuji, and Hideki Koike. 2022. OmniLantern: Design and Implementations of a Portable and Coaxial Omnidirectional Projector-Camera System. In Proceedings of the 2022 International Conference on Advanced Visual Interfaces (AVI 2022). Association for Computing Machinery, New York, NY, USA, Article 13, 1–5. [https://doi.org/10.1145/3531073.3531126](https://doi.org/10.1145/3531073.3531126)
 
 - Mikihito Matsuura, Shio Miyafuji, Erwin Wu, Satoshi Kiyofuji, Taichi Kin, Takeo Igarashi, and Hideki Koike. 2021. CV-Based Analysis for Microscopic Gauze Suturing Training. In Augmented Humans Conference 2021 (AHs'21). Association for Computing Machinery, New York, NY, USA, 169–173. [https://doi.org/10.1145/3458709.3458991](https://doi.org/10.1145/3458709.3458991)
@@ -163,7 +165,7 @@ Publication 論文一覧：
 
 - Shio Miyafuji, Soichiro Toyohara, Toshiki Sato, Hideki Koike:“DisplayBowl: A Bowl-Shaped Display for Omnidirectional Videos”, ACM International Conference, User Interface Software and Technology Adjunct Proceedings (UIST '18), pp.99-101, Berlin, Germany, October 2018. [https://doi.org/10.1145/3266037.3266114](https://doi.org/10.1145/3266037.3266114)
 
-- Zhengqing Li, Shio Miyafuji, Toshiki Sato, Hideaki Kuzuoka, Hideki Koike:“OmniEyeball: Spherical Display Equipped with Omnidirectional Camera and Its Application For 360-Degree Video Communication”, ACM International Conference, User Interface Software and Technology Adjunct Proceedings (UIST '18), pp.33-35, Berlin, Germany, October 2018.
+- Zhengqing Li, Shio Miyafuji, Toshiki Sato, Hideaki Kuzuoka, and Hideki Koike. 2018. OmniEyeball: Spherical Display Equipped With Omnidirectional Camera And Its Application For 360-Degree Video Communication. In Adjunct Proceedings of the 31st Annual ACM Symposium on User Interface Software and Technology (UIST '18 Adjunct). Association for Computing Machinery, New York, NY, USA, 33–35. [https://doi.org/10.1145/3266037.3266092](https://doi.org/10.1145/3266037.3266092)
 
 - Soichiro Toyohara, Shio Miyafuji and Hideki Koike:“ARial Texture: Dynamic Projection Mapping on Drone Propellers”, IEEE International Symposium on Mixed and Augmented Reality (ISMAR-Adjunct), pp. 206-211, Nantes, France, October 2017.
 

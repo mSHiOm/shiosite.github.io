@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "DisplayBowl"
-date:   2018-10-01 00:28:00 +0900
+date:   2019-10-01 00:28:00 +0900
 categories: projects
 image: /assets/images/displaybowl.jpg
 ---
@@ -19,4 +19,8 @@ This paper proposes a bowl-shaped hemispherical display to observe omnidirection
 ***
 
 #### Citarion Format
-Shio Miyafuji, Florian Perteneder, Toshiki Sato, Hideki Koike, and Gudrun Klinker. 2019. A Bowl-Shaped Display for Controlling Remote Vehicles. In Proceedings of the 17th International Conference on Virtual-Reality Continuum and its Applications in Industry (VRCAI '19). Association for Computing Machinery, New York, NY, USA, Article 10, 1–8. [https://doi.org/10.1145/3359997.3365706]([https://doi.org/10.1145/3359997.3365706])
+1. Shio Miyafuji, Florian Perteneder, Toshiki Sato, Hideki Koike, and Gudrun Klinker. 2019. A Bowl-Shaped Display for Controlling Remote Vehicles. In Proceedings of the 17th International Conference on Virtual-Reality Continuum and its Applications in Industry (VRCAI '19). Association for Computing Machinery, New York, NY, USA, Article 10, 1–8. [https://doi.org/10.1145/3359997.3365706]([https://doi.org/10.1145/3359997.3365706])
+
+1. Shio Miyafuji, Soichiro Toyohara, Toshiki Sato, and Hideki Koike. 2019. Remote control experiment with displaybowl and 360-degree video. In ACM SIGGRAPH 2019 Posters (SIGGRAPH '19). Association for Computing Machinery, New York, NY, USA, Article 62, 1–2. [https://doi.org/10.1145/3306214.3338568](https://doi.org/10.1145/3306214.3338568)
+
+1.  

@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "OkashiraKaigi"
+date:   2017-12-02 00:00:00 +0900
+categories: projects
+image: /assets/images/okashira.jpg
+---
+
+
+
+![]({{ page.image }})
+
+#### Abstract
+OkashiraKaigi (おかしら会議 "TOP-conference") is an application for tele conference with OmniEyeball. This application helps audience who talks to whom in the tele communication by displaying the face of the speaker.
+
+***
+
+#### Video
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_i9vC_UYjJE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+***
+
+#### Citarion format
+
+1. 宮藤 詩緒，LI ZHENGQING，佐藤 俊樹，小池 英樹, "おかしら会議: 球体型ディスプレイを用いた遠隔会議での一対一会話支援システム", 日本ソフトウェア科学会, 第25回インタラクティブシステムとソフトウェアに関するワークショップ (WISS2017), 長野県, 八ヶ岳, 2017年12月.[https://www.wiss.org/WISS2017Proceedings/demo/3-A02.pdf](https://www.wiss.org/WISS2017Proceedings/demo/3-A02.pdf)
