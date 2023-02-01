@@ -17,4 +17,4 @@ Research Topic:<br>
 Human Computer Interaction <br>
 Augmented Reality / Virtual Reality <br>
 Spherical Display / Spatial User Interface <br>
-Remote Collaboration / 360 Degree Video
+Remote Collaboration / 360 Degree Image
