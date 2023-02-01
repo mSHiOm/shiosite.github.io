@@ -8,9 +8,7 @@ image: /assets/images/microsurgery.jpg
 
 ![]({{ page.image }})
 
-Main Contributors: 
-Mikihito Matsuura,
-Yuka Tashiro
+#### Main Contributors: Mikihito Matsuura,Yuka Tashiro
 
 #### Abstract
 This paper proposes the basis of a microscopic suture practice support system aimed to reduce the time required for neurosurgeons to practice microscopic gauze suturing. The system detects instruments in real-time from the video of the microscope camera and provides an immediate analysis. After practitioners have completed practicing, they can immediately view their results. We introduce a sequential image dataset in which the surgery phases, as well as the bounding boxes of surgical instruments, are annotated. A YOLO V4 network is fine-tuned with the proposed dataset and achieves an accuracy of approximately 94%. We also propose a tool for a phase estimation after each suturing using a Dynamic Programming based algorithm from the tracking data, which allows us to estimate the phase of the previous practice session with about 83 % accuracy. This is used for an application to detect and provide feedback on points of concern. This proposal augments the practitioners’ acquisition of skills, allowing them to immediately reflect on their most recent practice session, rather than repeating aimlessly.

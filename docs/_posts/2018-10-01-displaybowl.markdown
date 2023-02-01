@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "DisplayBowl"
-date:   2018-10-01 00:28:00 +0900
+date:   2019-10-01 00:28:00 +0900
 categories: projects
 image: /assets/images/displaybowl.jpg
 ---

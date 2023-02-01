@@ -8,11 +8,10 @@ image: /assets/images/froggyhand.jpg
 
 ![]({{ page.image }})
 
-Main Contributor: 
-Jana Hoffard
+#### Main Contributor: Jana Hoffard
 
 #### Abstract
-
+We would like to introduce FroggyHand, a novel interactive display which projects images onto a webbed skin between the user’s fingers. Applications connected to these images are then activated via hand tracking and gesture recognition. We present the implementation steps as well as small, prototype applications and discuss future plans.
 
 
 ***
