@@ -65,8 +65,8 @@ Publication 論文一覧：
 - 2018 - 2020 情報処理学会ヒューマンコンピュータインタラクション研究会　学生運営委員
 - 2019 - 2021 ACM CHI Symposium, Asian CHI Symposium Organizer
 - 2020 - &emsp;&ensp; Interaction Web委員
-- CHI2021 SNS
-- WISS ボランティア委員
+- 2021 &emsp;&emsp;&ensp; CHI2021 Organizer: Social Media Chair
+- 2022 - &emsp;&ensp; WISS ボランティア委員
 
 #### Professional Societies 所属学会
 - ACM
@@ -78,8 +78,9 @@ Publication 論文一覧：
 - 2017 電気通信普及財団 平成29年度海外渡航旅費援助
 - 2018 日本学術振興会 特別研究員奨励費 DC2
 - 2020 日本学術振興会 科研費 研究活動スタート支援
-- 2020 日本学術振興会 科研費 若手研究
 - 2020 科学技術振興機構(JST) CREST AIPチャレンジプログラム 
+- 2021 日本学術振興会 科研費 若手研究
+
 
 ### Awards and Inveited Talk / Invited Demo 表彰歴・招待講演/招待デモ
 - 2018 情報処理学会 第176回ヒューマンコンピュータインタラクション研究会　招待講演
