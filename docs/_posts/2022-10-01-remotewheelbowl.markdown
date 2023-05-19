@@ -16,7 +16,7 @@ We introduce LUNAChair, a remote control and communication system that uses omni
 ***
 
 #### Citarion Format
-1. Luna Takagi, Shio Miyafuji, Jefferson Pardomuan, and Hideki Koike. 2023. Remote Wheelchair System Linking Users to Nearby People and Assistants (Accepted to Augmented Humans 2023. It will be presented in March 2023.)
+1. Luna Takagi, Shio Miyafuji, Jefferson Pardomuan, and Hideki Koike. 2023. LUNAChair: Remote Wheelchair System Linking Users to Nearby People and Assistants. In Proceedings of the Augmented Humans International Conference 2023 (AHs '23). Association for Computing Machinery, New York, NY, USA, 122–134. [https://doi.org/10.1145/3582700.3582714](https://doi.org/10.1145/3582700.3582714)
 
 1. 高木瑠名，宮藤詩緒，ジェフェルソンパルドムアン，小池英樹, "車椅子使用者を周囲の人と遠隔介助者に繋ぐ遠隔車椅子システム", 日本ソフトウェア科学会, 第30回インタラクティブシステムとソフトウェアに関するワークショップ (WISS2022), No.13, pp.94-101, 宮城県, 蔵王, 2022年12月. [https://www.wiss.org/WISS2022Proceedings/data/13.pdf](https://www.wiss.org/WISS2022Proceedings/data/13.pdf)
 

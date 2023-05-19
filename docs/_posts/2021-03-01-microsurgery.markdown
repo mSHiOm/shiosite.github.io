@@ -17,7 +17,7 @@ This paper proposes the basis of a microscopic suture practice support system ai
 ***
 
 #### Citarion format
-1. Yuka Tashiro, Shio Miyafuji, Dong-Hyun Hwang,  Satoshi Kiyofuji, Taichi Kin, Takeo Igarashi, and Hideki Koike. 2023. GAuze-MIcrosuture-FICATION: Gamification in Microsuture training with real-time feedback. (Accepted to Augmented Humans 2023. It will be presented in March 2023.)
+1. Yuka Tashiro, Shio Miyafuji, Dong-Hyun Hwang, Satoshi Kiyofuji, Taichi Kin, Takeo Igarashi, and Hideki Koike. 2023. GAuze-MIcrosuture-FICATION: Gamification in Microsuture training with real-time feedback. In Proceedings of the Augmented Humans International Conference 2023 (AHs '23). Association for Computing Machinery, New York, NY, USA, 15–26. [https://doi.org/10.1145/3582700.3582704](https://doi.org/10.1145/3582700.3582704)
 
 1. Yuka Tashiro, Mikihito Matsuura, Dong-Hyun Hwang, Shio Miyafuji, Satoshi Kiyofuji, Taichi Kin, Takeo Igarashi, and Hideki Koike. 2022. Introducing a Concept of Gamification to Microscopic Suturing Training. In Augmented Humans 2022 (AHs 2022). Association for Computing Machinery, New York, NY, USA, 294–297. [https://doi.org/10.1145/3519391.3524026](https://doi.org/10.1145/3519391.3524026)
 

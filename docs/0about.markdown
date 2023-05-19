@@ -104,6 +104,10 @@ Publication 論文一覧：
 
 ##### International Conference
 
+- Yuka Tashiro, Shio Miyafuji, Dong-Hyun Hwang, Satoshi Kiyofuji, Taichi Kin, Takeo Igarashi, and Hideki Koike. 2023. GAuze-MIcrosuture-FICATION: Gamification in Microsuture training with real-time feedback. In Proceedings of the Augmented Humans International Conference 2023 (AHs '23). Association for Computing Machinery, New York, NY, USA, 15–26. [https://doi.org/10.1145/3582700.3582704](https://doi.org/10.1145/3582700.3582704)
+
+- Luna Takagi, Shio Miyafuji, Jefferson Pardomuan, and Hideki Koike. 2023. LUNAChair: Remote Wheelchair System Linking Users to Nearby People and Assistants. In Proceedings of the Augmented Humans International Conference 2023 (AHs '23). Association for Computing Machinery, New York, NY, USA, 122–134. [https://doi.org/10.1145/3582700.3582714](https://doi.org/10.1145/3582700.3582714)
+
 - Jana Hoffard, Shio Miyafuji, Jefferson Pardomuan, Toshiki Sato, Hideki Koike. 2022. OmniTiles-A User-Customizable Display Using An Omni-Directional Camera Projector System. In Proceedings of the 2022 ICAT-EGVE 2022 - International Conference on Artificial Reality and Telexistence and Eurographics Symposium on Virtual Environments (ICAT-EVCG2022). The Eurographics Association. pp.149-158. [https://diglib.eg.org:443/handle/10.2312/egve20221286](https://diglib.eg.org:443/handle/10.2312/egve20221286)
 
 - Ruopeng Xu, Toshiki Sato, Shio Miyafuji, and Hideki Koike. 2022. OmniLantern: Design and Implementations of a Portable and Coaxial Omnidirectional Projector-Camera System. In Proceedings of the 2022 International Conference on Advanced Visual Interfaces (AVI 2022). Association for Computing Machinery, New York, NY, USA, Article 13, 1–5. [https://doi.org/10.1145/3531073.3531126](https://doi.org/10.1145/3531073.3531126)
