@@ -97,7 +97,7 @@ Publication 論文一覧：
 - 宮藤詩緒, 佐藤俊樹, 小池英樹,「DisplayBowl: 半透過凹型半球面ディスプレイの試作と評価」, コンピュータソフトウェア, 日本ソフトウェア科学会, 37巻1号p.1_114-1_124, 2020.
 
 
-- Zhengqing Li, Shio Miyafuji, Toshiki Sato, Naomi Yamashita, Hideki Koike, Hideaki Kuzuoka, “Impact of Display Shapes on Symmetric 360° Video Communication For Remote Collaboration” 日本バーチャルリアリティ学会論文誌（査読有・採録決定済）
+- Zhengqing Li, Shio Miyafuji, Toshiki Sato, Naomi Yamashita, Hideki Koike, Hideaki Kuzuoka, “Impact of Display Shapes on Symmetric 360° Video Communication For Remote Collaboration” 日本バーチャルリアリティ学会論文誌, 2019, 24 巻, 2 号, p. 165-176, 公開日 2019/06/30, Online ISSN 2423-9593, Print ISSN 1344-011X, [https://doi.org/10.18974/tvrsj.24.2_165](https://doi.org/10.18974/tvrsj.24.2_165)
 
 - 宮藤詩緒, 佐藤俊樹, Li Zhengqing, 小池英樹. 「Qoom: 球体形インタラクティブディスプレイ」, コンピュータソフトウェア, 日本ソフトウェア科学会, Vol. 35, No. 2, Apr. 2018. 
 
