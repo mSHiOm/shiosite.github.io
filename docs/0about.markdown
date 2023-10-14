@@ -105,6 +105,8 @@ Publication 論文一覧：
 
 ##### International Conference
 
+- Yasheng Sun, Qianyi Wu, Hang Zhou, Kaisiyuan Wang, Tianshu Hu, Chen-Chieh Liao, Shio Miyafuji, Ziwei Liu, and Hideki Koike. 2023. Make Your Brief Stroke Real and Stereoscopic: 3D-Aware Simplified Sketch to Portrait Generation. In Proceedings of the 25th International Conference on Multimodal Interaction (ICMI '23). Association for Computing Machinery, New York, NY, USA, 388–396. [https://doi.org/10.1145/3577190.3614106] (https://doi.org/10.1145/3577190.3614106)
+
 - Yuka Tashiro, Shio Miyafuji, Dong-Hyun Hwang, Satoshi Kiyofuji, Taichi Kin, Takeo Igarashi, and Hideki Koike. 2023. GAuze-MIcrosuture-FICATION: Gamification in Microsuture training with real-time feedback. In Proceedings of the Augmented Humans International Conference 2023 (AHs '23). Association for Computing Machinery, New York, NY, USA, 15–26. [https://doi.org/10.1145/3582700.3582704](https://doi.org/10.1145/3582700.3582704)
 
 - Luna Takagi, Shio Miyafuji, Jefferson Pardomuan, and Hideki Koike. 2023. LUNAChair: Remote Wheelchair System Linking Users to Nearby People and Assistants. In Proceedings of the Augmented Humans International Conference 2023 (AHs '23). Association for Computing Machinery, New York, NY, USA, 122–134. [https://doi.org/10.1145/3582700.3582714](https://doi.org/10.1145/3582700.3582714)
@@ -157,6 +159,9 @@ Publication 論文一覧：
 - Shio Miyafuji and Hideki Koike. 2015. Ballumiere: real-time tracking and projection system for high-speed flying balls. In SIGGRAPH Asia 2015 Emerging Technologies (SA '15). Association for Computing Machinery, New York, NY, USA, Article 2, 1. [https://doi.org/10.1145/2818466.2818492](https://doi.org/10.1145/2818466.2818492) (口頭発表有り)
 
 #### Poster
+
+- Hidetaka Katsuyama, Shio Miyafuji, Arisa Kohtani, and Hideki Koike. 2023. Volu-Me Fan: Turn Your Layered-fan into a Volumetric Display. In Proceedings of the 2023 ACM Symposium on Spatial User Interaction (SUI '23). Association for Computing Machinery, New York, NY, USA, Article 39, 1–3. [https://doi.org/10.1145/3607822.3618006](https://doi.org/10.1145/3607822.3618006)
+
 - Luna Takagi, Shio Miyafuji, Jefferson Pardomuan, and Hideki Koike. 2022. LUNAChair: Remote Wheelchair System that Links Up a Remote Caregiver and Wheelchair Surroundings. In Adjunct Proceedings of the 35th Annual ACM Symposium on User Interface Software and Technology (UIST '22 Adjunct). Association for Computing Machinery, New York, NY, USA, Article 40, 1–3. [https://doi.org/10.1145/3526114.3558729](https://doi.org/10.1145/3526114.3558729)
 
 - Jana Hoffard, Shio Miyafuji, Jefferson Pardomuan, Toshiki Sato, and Hideki Koike. 2022. FroggyHand: A Gesture Based Control System for Omni-Directional Projections. In Augmented Humans 2022 (AHs 2022). Association for Computing Machinery, New York, NY, USA, 298–300. [https://doi.org/10.1145/3519391.3524027](https://doi.org/10.1145/3519391.3524027)
