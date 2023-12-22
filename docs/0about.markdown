@@ -107,7 +107,7 @@ Publication 論文一覧：
 
 - Yasheng Sun, Qianyi Wu, Hang Zhou, Kaisiyuan Wang, Tianshu Hu, Chen-Chieh Liao, Shio Miyafuji, Ziwei Liu, and Hideki Koike. 2023. Make Your Brief Stroke Real and Stereoscopic: 3D-Aware Simplified Sketch to Portrait Generation. In Proceedings of the 25th International Conference on Multimodal Interaction (ICMI '23). Association for Computing Machinery, New York, NY, USA, 388–396. [https://doi.org/10.1145/3577190.3614106] (https://doi.org/10.1145/3577190.3614106)
 
-- Yuka Tashiro, Shio Miyafuji, Dong-Hyun Hwang, Satoshi Kiyofuji, Taichi Kin, Takeo Igarashi, and Hideki Koike. 2023. GAuze-MIcrosuture-FICATION: Gamification in Microsuture training with real-time feedback. In Proceedings of the Augmented Humans International Conference 2023 (AHs '23). Association for Computing Machinery, New York, NY, USA, 15–26. [https://doi.org/10.1145/3582700.3582704](https://doi.org/10.1145/3582700.3582704)
+- Yuka Tashiro*, Shio Miyafuji*, Dong-Hyun Hwang, Satoshi Kiyofuji, Taichi Kin, Takeo Igarashi, and Hideki Koike. 2023. GAuze-MIcrosuture-FICATION: Gamification in Microsuture training with real-time feedback. In Proceedings of the Augmented Humans International Conference 2023 (AHs '23). Association for Computing Machinery, New York, NY, USA, 15–26. [https://doi.org/10.1145/3582700.3582704](https://doi.org/10.1145/3582700.3582704)
 
 - Luna Takagi, Shio Miyafuji, Jefferson Pardomuan, and Hideki Koike. 2023. LUNAChair: Remote Wheelchair System Linking Users to Nearby People and Assistants. In Proceedings of the Augmented Humans International Conference 2023 (AHs '23). Association for Computing Machinery, New York, NY, USA, 122–134. [https://doi.org/10.1145/3582700.3582714](https://doi.org/10.1145/3582700.3582714)
 
@@ -115,7 +115,7 @@ Publication 論文一覧：
 
 - Ruopeng Xu, Toshiki Sato, Shio Miyafuji, and Hideki Koike. 2022. OmniLantern: Design and Implementations of a Portable and Coaxial Omnidirectional Projector-Camera System. In Proceedings of the 2022 International Conference on Advanced Visual Interfaces (AVI 2022). Association for Computing Machinery, New York, NY, USA, Article 13, 1–5. [https://doi.org/10.1145/3531073.3531126](https://doi.org/10.1145/3531073.3531126)
 
-- Mikihito Matsuura, Shio Miyafuji, Erwin Wu, Satoshi Kiyofuji, Taichi Kin, Takeo Igarashi, and Hideki Koike. 2021. CV-Based Analysis for Microscopic Gauze Suturing Training. In Augmented Humans Conference 2021 (AHs'21). Association for Computing Machinery, New York, NY, USA, 169–173. [https://doi.org/10.1145/3458709.3458991](https://doi.org/10.1145/3458709.3458991)
+- Mikihito Matsuura*, Shio Miyafuji*, Erwin Wu, Satoshi Kiyofuji, Taichi Kin, Takeo Igarashi, and Hideki Koike. 2021. CV-Based Analysis for Microscopic Gauze Suturing Training. In Augmented Humans Conference 2021 (AHs'21). Association for Computing Machinery, New York, NY, USA, 169–173. [https://doi.org/10.1145/3458709.3458991](https://doi.org/10.1145/3458709.3458991)
 
 - Tsubasa Kitayama, Shio Miyafuji, and Hideki Koike. 2020. Vision Extension for a Ball Camera by Using Image Completion. In Proceedings of the Augmented Humans International Conference (AHs '20). Association for Computing Machinery, New York, NY, USA, Article 4, 1–5. [https://doi.org/10.1145/3384657.3384802](https://doi.org/10.1145/3384657.3384802)
 
@@ -134,6 +134,10 @@ Publication 論文一覧：
 - Shio Miyafuji, Masato Sugasaki, Hideki Koike:“Ballumiere: Real-time Tracking and Projection System for High-Speed Flying Balls”, ACM International Conference, Interactive Surfaces and Spaces (ISS ’16).ACM, pp.33–37, Niagara Falls, Ontario, Canada, November 2016. [https://doi.org/10.1145/2992154.2992181](https://doi.org/10.1145/2992154.2992181)
 
 ##### Domestic Conference
+
+- [ショート採録]　幸谷有紗，戛山英高，浦垣啓志郎，宮藤詩緒，小池 英樹, "動いている人の視線だけを惹きつけるモザイク投影手法", 日本ソフトウェア科学会, 第31回インタラクティブシステムとソフトウェアに関するワークショップ (WISS2023), No.20, pp.92-98, 長野県, 八ヶ岳, 2023年12月. [https://www.wiss.org/WISS2023Proceedings/data/20.pdf](https://www.wiss.org/WISS2023Proceedings/data/20.pdf) (**最優秀発表賞（プログラム委員）**)
+
+- [ロングティザー]　田代優香，宮藤詩緒，清藤哲史，金太一，五十嵐健夫，"小池英樹脳神経外科医のためのMR縫合訓練システム", 日本ソフトウェア科学会, 第31回インタラクティブシステムとソフトウェアに関するワークショップ (WISS2023), No.T02, 長野県，八ヶ岳，2023年12月. [https://www.wiss.org/WISS2023Proceedings/data/T02.pdf](https://www.wiss.org/WISS2023Proceedings/data/T02.pdf)
 
 - [ショート採録] 高木瑠名，宮藤詩緒，ジェフェルソンパルドムアン，小池英樹, "車椅子使用者を周囲の人と遠隔介助者に繋ぐ遠隔車椅子システム", 日本ソフトウェア科学会, 第30回インタラクティブシステムとソフトウェアに関するワークショップ (WISS2022), No.13, pp.94-101, 宮城県, 蔵王, 2022年12月. [https://www.wiss.org/WISS2022Proceedings/data/13.pdf](https://www.wiss.org/WISS2022Proceedings/data/13.pdf)
 
@@ -154,11 +158,17 @@ Publication 論文一覧：
 
 - Shio Miyafuji, Masato Sugasaki, and Hideki Koike. 2016. Ballumiere: Real-Time Tracking and Projection for High-Speed Moving Balls. In Adjunct Proceedings of the 29th Annual ACM Symposium on User Interface Software and Technology (UIST '16 Adjunct). Association for Computing Machinery, New York, NY, USA, 101–102. [https://doi.org/10.1145/2984751.2985717](https://doi.org/10.1145/2984751.2985717)
 
-- Shio Miyafuji, Masato Sugasaki, Toshiki Sato, Hideki Koike:“Qoom: A Touch-sensitive Interactive Spherical Display and its Environment using Dynamic Projection Mapping”, Laval Virtual 2016, Laval, France, March 2016.(招待デモ採択)
+- Shio Miyafuji, Masato Sugasaki, Toshiki Sato, Hideki Koike:“Qoom: A Touch-sensitive Interactive Spherical Display and its Environment using Dynamic Projection Mapping”, Laval Virtual 2016, Laval, France, March 2016.(**Invited Demo**)
 
 - Shio Miyafuji and Hideki Koike. 2015. Ballumiere: real-time tracking and projection system for high-speed flying balls. In SIGGRAPH Asia 2015 Emerging Technologies (SA '15). Association for Computing Machinery, New York, NY, USA, Article 2, 1. [https://doi.org/10.1145/2818466.2818492](https://doi.org/10.1145/2818466.2818492) (口頭発表有り)
 
 #### Poster
+
+- Yuka Tashiro, Shio Miyafuji, Satoshi Kiyofuji, Taichi Kin, Takeo Igarashi and Hideki Koike, "MR Microsurgical Suture Training System for Neurosurgeons," 2023 IEEE International Symposium on Mixed and Augmented Reality Adjunct (ISMAR-Adjunct), Sydney, Australia, 2023, pp. 458-459, [https://doi.org/10.1109/ISMAR-Adjunct60411.2023.00099](https://doi.org/10.1109/ISMAR-Adjunct60411.2023.00099).
+
+- Arisa Kohtani, Hidetaka Katsuyama, Shio Miyafuji and Hideki Koike, "MOSion: Situation-Dependent Mosaicing System using High-Speed Projection," 2023 IEEE International Symposium on Mixed and Augmented Reality Adjunct (ISMAR-Adjunct), Sydney, Australia, 2023, pp. 732-735, [https://doi.org/10.1109/ISMAR-Adjunct60411.2023.00158](10.1109/ISMAR-Adjunct60411.2023.00158)
+
+- Arisa Kohtani, Keishiro Uragaki, Shio Miyafuji and Hideki Koike, "Displacement Projection Mapping: a Projection Method to Add Geometric Features beyond the Boundary of the Real Object," 2023 IEEE International Symposium on Mixed and Augmented Reality Adjunct (ISMAR-Adjunct), Sydney, Australia, 2023, pp. 727-731, [https://doi.org/10.1109/ISMAR-Adjunct60411.2023.00157](https://doi.org/10.1109/ISMAR-Adjunct60411.2023.00157)
 
 - Hidetaka Katsuyama, Shio Miyafuji, Arisa Kohtani, and Hideki Koike. 2023. Volu-Me Fan: Turn Your Layered-fan into a Volumetric Display. In Proceedings of the 2023 ACM Symposium on Spatial User Interaction (SUI '23). Association for Computing Machinery, New York, NY, USA, Article 39, 1–3. [https://doi.org/10.1145/3607822.3618006](https://doi.org/10.1145/3607822.3618006)
 
@@ -166,7 +176,7 @@ Publication 論文一覧：
 
 - Jana Hoffard, Shio Miyafuji, Jefferson Pardomuan, Toshiki Sato, and Hideki Koike. 2022. FroggyHand: A Gesture Based Control System for Omni-Directional Projections. In Augmented Humans 2022 (AHs 2022). Association for Computing Machinery, New York, NY, USA, 298–300. [https://doi.org/10.1145/3519391.3524027](https://doi.org/10.1145/3519391.3524027)
 
-- Yuka Tashiro, Mikihito Matsuura, Dong-Hyun Hwang, Shio Miyafuji, Satoshi Kiyofuji, Taichi Kin, Takeo Igarashi, and Hideki Koike. 2022. Introducing a Concept of Gamification to Microscopic Suturing Training. In Augmented Humans 2022 (AHs 2022). Association for Computing Machinery, New York, NY, USA, 294–297. [https://doi.org/10.1145/3519391.3524026](https://doi.org/10.1145/3519391.3524026)
+- Yuka Tashiro, Mikihito Matsuura, Dong-Hyun Hwang, Shio Miyafuji, Satoshi Kiyofuji, Taichi Kin, Takeo Igarashi, and Hideki Koike. 2022. Introducing a Concept of Gamification to Microscopic Suturing Training. In Augmented Humans 2022 (AHs 2022). Association for Computing Machinery, New York, NY, USA, 294–297. [https://doi.org/10.1145/3519391.3524026](https://doi.org/10.1145/3519391.3524026) (**Best Poster Award**)
 
 - Luna Takagi, Toshiki Sato, Shio Miyafuji, and Hideki Koike. 2021. Real-time Projection of Lip Animation onto Face Masks using OmniProcam. In ACM SIGGRAPH 2021 Posters (SIGGRAPH '21). Association for Computing Machinery, New York, NY, USA, Article 20, 1–2. [https://doi.org/10.1145/3450618.3469171](https://doi.org/10.1145/3450618.3469171)
 
@@ -178,11 +188,15 @@ Publication 論文一覧：
 
 - Zhengqing Li, Shio Miyafuji, Toshiki Sato, Hideaki Kuzuoka, and Hideki Koike. 2018. OmniEyeball: Spherical Display Equipped With Omnidirectional Camera And Its Application For 360-Degree Video Communication. In Adjunct Proceedings of the 31st Annual ACM Symposium on User Interface Software and Technology (UIST '18 Adjunct). Association for Computing Machinery, New York, NY, USA, 33–35. [https://doi.org/10.1145/3266037.3266092](https://doi.org/10.1145/3266037.3266092)
 
-- Soichiro Toyohara, Shio Miyafuji and Hideki Koike:“ARial Texture: Dynamic Projection Mapping on Drone Propellers”, IEEE International Symposium on Mixed and Augmented Reality (ISMAR-Adjunct), pp. 206-211, Nantes, France, October 2017.
+- Soichiro Toyohara, Shio Miyafuji and Hideki Koike:“ARial Texture: Dynamic Projection Mapping on Drone Propellers”, IEEE International Symposium on Mixed and Augmented Reality (ISMAR-Adjunct), pp. 206-211, Nantes, France, October 2017.[https://doi.org/10.1109/ISMAR-Adjunct.2017.68](https://doi.org/10.1109/ISMAR-Adjunct.2017.68)
 
 - Zhengqing Li, Shio Miyafuji, Toshiki Sato, and Hideki Koike. 2016. OmniEyeball: Spherical Display Embedded With Omnidirectional Camera Using Dynamic Spherical Mapping. In Adjunct Proceedings of the 29th Annual ACM Symposium on User Interface Software and Technology (UIST '16 Adjunct). Association for Computing Machinery, New York, NY, USA, 193–194. [https://doi.org/10.1145/2984751.2984765](https://doi.org/10.1145/2984751.2984765)
 
 #### Demo/Poster (Domestic Conference)
+- 佐藤優稀，齊藤大智，Chen-ChiehLiao，宮藤詩緒，吉村奈津江，小池英樹, "音楽聴取時の脳波の周波数解析に基づくジャンル分類", 日本ソフトウェア科学会, 第31回インタラクティブシステムとソフトウェアに関するワークショップ (WISS2023), No.1-B12,  長野県, 八ヶ岳, 2023年12月.[https://www.wiss.org/WISS2023Proceedings/data/1-B12.pdf](https://www.wiss.org/WISS2023Proceedings/data/1-B12.pdf)
+
+- 小島悠介，田代優香，宮藤詩緒，清藤哲史，金太一，五十嵐健夫，小池英樹, "影真似を用いた顕微鏡縫合における器具姿勢学習システム", 日本ソフトウェア科学会, 第31回インタラクティブシステムとソフトウェアに関するワークショップ (WISS2023), No.20, pp.92-98, 長野県, 八ヶ岳, 2023年12月.[https://www.wiss.org/WISS2023Proceedings/data/2-B03.pdf](https://www.wiss.org/WISS2023Proceedings/data/2-B03.pdf)
+
 - 幸谷有紗，浦垣啓志郎，宮藤詩緒，小池英樹, "Displacement Projection Mapping:実物体の境界を超えた形状変化の投影", 日本ソフトウェア科学会, 第30回インタラクティブシステムとソフトウェアに関するワークショップ (WISS2022), 宮城県, 蔵王, 2022年12月.[https://www.wiss.org/WISS2022Proceedings/data/T07.pdf](https://www.wiss.org/WISS2022Proceedings/data/T07.pdf) (サイバーエージェント賞受賞)
 
 - 高木瑠名，宮藤詩緒，ジェフェルソンパルドムアン，小池英樹, "車椅子使用者を周囲の人と遠隔介助者に繋ぐ遠隔車椅子システム", 日本ソフトウェア科学会, 第30回インタラクティブシステムとソフトウェアに関するワークショップ (WISS2022), 宮城県, 蔵王, 2022年12月.
