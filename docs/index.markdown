@@ -9,9 +9,9 @@ image: /assets/images/home.jpg
 Tokyo Institute of Technology<br>
 School of Computing<br>
 Assistant Professor<br>
-Koike Lab<br>
+Miyafuji Lab<br>
 東京工業大学情報理工学院 <br>
-小池研究室 助教<br>
+宮藤研究室 助教<br>
 
 Research Topic:<br>
 Human Computer Interaction <br>
