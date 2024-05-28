@@ -43,7 +43,8 @@ Publication 論文一覧：
 
 ### Work Experience 職務経歴
 - 2018 - 2020 Research Fellowship for Young Scientists DC2
-- 2020 - &emsp;&ensp;　Assistant Professor in School of Computing, Tokyo Institute of Technology
+- 2020 - 2023　Assistant Professor in Koike Lab School of Computing, Tokyo Institute of Technology
+- 2024 - &emsp;&ensp; Assistant Professor (tenure-track) in Miyafuji Lab School of Computing, Tokyo Institute of Technology
 - Visiting Researcher
     - 2018 Apr. - 2018 Jun.: Prof. Mark Chignell's lab, University of Tront
     - 2018 Oct. - 2019 Jan.: Prof. Gudrun Klinker's lab, Technical University in Munich
@@ -104,6 +105,11 @@ Publication 論文一覧：
 #### Conference Paper 学会論文
 
 ##### International Conference
+- Arisa Kohtani, Shio Miyafuji, Keishiro Uragaki, Hidetaka Katsuyama, and Hideki Koike. 2024. MOSion: Gaze Guidance with Motion-triggered Visual Cues by Mosaic Patterns. In Proceedings of the CHI Conference on Human Factors in Computing Systems (CHI '24). Association for Computing Machinery, New York, NY, USA, Article 374, 1–11. https://doi.org/10.1145/3613904.3642577
+
+- Yuka Tashiro, Shio Miyafuji, Yusuke Kojima, Satoshi Kiyofuji, Taichi Kin, Takeo Igarashi, and Hideki Koike. 2024. MR Microsurgical Suture Training System with Level-Appropriate Support. In Proceedings of the CHI Conference on Human Factors in Computing Systems (CHI '24). Association for Computing Machinery, New York, NY, USA, Article 460, 1–19. https://doi.org/10.1145/3613904.3642324
+
+- Jefferson Pardomuan, Shio Miyafuji, Nobuhiro Takahashi, and Hideki Koike. 2024. VabricBeads : Variable Stiffness Structured Fabric using Artificial Muscle in Woven Beads. In Proceedings of the CHI Conference on Human Factors in Computing Systems (CHI '24). Association for Computing Machinery, New York, NY, USA, Article 335, 1–17. https://doi.org/10.1145/3613904.3642401
 
 - Yasheng Sun, Qianyi Wu, Hang Zhou, Kaisiyuan Wang, Tianshu Hu, Chen-Chieh Liao, Shio Miyafuji, Ziwei Liu, and Hideki Koike. 2023. Make Your Brief Stroke Real and Stereoscopic: 3D-Aware Simplified Sketch to Portrait Generation. In Proceedings of the 25th International Conference on Multimodal Interaction (ICMI '23). Association for Computing Machinery, New York, NY, USA, 388–396. [https://doi.org/10.1145/3577190.3614106] (https://doi.org/10.1145/3577190.3614106)
 
