@@ -12,10 +12,10 @@ image: /assets/images/profile.jpg
 ## 宮藤 詩緒
 Tokyo Institute of Technology
 School of Computing<br>
-Assistant Professor at [Koike Lab](https://www.vogue.cs.titech.ac.jp/top)
+Assistant Professor at Miyafuji Lab
 <br>
 東京工業大学情報理工学院 情報工学系<br>
-[小池研究室](https://www.vogue.cs.titech.ac.jp/top) 助教<br>
+宮藤研究室 助教<br>
 <br>
 Publication 論文一覧：
 [Google Scholar Citation](https://scholar.google.com/citations?user=SuyJiqEAAAAJ&hl=ja&authuser=2&oi=ao) 
@@ -68,6 +68,8 @@ Publication 論文一覧：
 - 2020 - &emsp;&ensp; Interaction Web委員
 - 2021 &emsp;&emsp;&ensp; CHI2021 Organizer: Social Media Chair
 - 2022 - &emsp;&ensp; WISS ボランティア委員
+- 2025 &emsp;&emsp;&ensp; CHI2025 Organizer: Social Media Chair
+
 
 #### Professional Societies 所属学会
 - ACM
@@ -76,6 +78,7 @@ Publication 論文一覧：
 - 日本ソフトウェア科学会  
 
 ### Research Funds 競争的資金獲得
+- 2023 科学技術振興機構(JST) さきがけ
 - 2021 日本学術振興会 科研費 若手研究
 - 2020 科学技術振興機構(JST) CREST AIPチャレンジプログラム 
 - 2020 日本学術振興会 科研費 研究活動スタート支援
@@ -88,15 +91,12 @@ Publication 論文一覧：
 - 2018 情報処理学会 第176回ヒューマンコンピュータインタラクション研究会　招待講演
 - 2016 Invited Demo at 18th Laval Virtual 2016
 
-
-
 ### Publication 出版
 
 #### Journal　学術論文
 - Urakami, Jacqueline & Matulis, Henrique & Miyafuji, Shio & Li, Zhengqing & Koike, Hideki & Chignell, Mark. (2022). Comparing immersiveness and perceptibility of spherical and curved displays. Applied Ergonomics. 90. [https://doi.org/10.1016/j.apergo.2020.103271](https://doi.org/10.1016/j.apergo.2020.103271)
 
 - 宮藤詩緒, 佐藤俊樹, 小池英樹,「DisplayBowl: 半透過凹型半球面ディスプレイの試作と評価」, コンピュータソフトウェア, 日本ソフトウェア科学会, 37巻1号p.1_114-1_124, 2020.
-
 
 - Zhengqing Li, Shio Miyafuji, Toshiki Sato, Naomi Yamashita, Hideki Koike, Hideaki Kuzuoka, “Impact of Display Shapes on Symmetric 360° Video Communication For Remote Collaboration” 日本バーチャルリアリティ学会論文誌, 2019, 24 巻, 2 号, p. 165-176, 公開日 2019/06/30, Online ISSN 2423-9593, Print ISSN 1344-011X, [https://doi.org/10.18974/tvrsj.24.2_165](https://doi.org/10.18974/tvrsj.24.2_165)
 
@@ -105,7 +105,7 @@ Publication 論文一覧：
 #### Conference Paper 学会論文
 
 ##### International Conference
-Yusuke Kojima, Shio Miyafuji, Yuka Tashiro, Satoshi Kiyofuji, and Hideki Koike. 2024. MR MANE: MR Microsurgical Suturing Skill Acquisition for Novice Using Imitation of Example. In Proceedings of the 2024 International Conference on Advanced Visual Interfaces (AVI '24). Association for Computing Machinery, New York, NY, USA, Article 7, 1–5. [https://doi.org/10.1145/3656650.3656660](https://doi.org/10.1145/3656650.3656660)
+- Yusuke Kojima, Shio Miyafuji, Yuka Tashiro, Satoshi Kiyofuji, and Hideki Koike. 2024. MR MANE: MR Microsurgical Suturing Skill Acquisition for Novice Using Imitation of Example. In Proceedings of the 2024 International Conference on Advanced Visual Interfaces (AVI '24). Association for Computing Machinery, New York, NY, USA, Article 7, 1–5. [https://doi.org/10.1145/3656650.3656660](https://doi.org/10.1145/3656650.3656660)
 
 - Arisa Kohtani, Shio Miyafuji, Keishiro Uragaki, Hidetaka Katsuyama, and Hideki Koike. 2024. MOSion: Gaze Guidance with Motion-triggered Visual Cues by Mosaic Patterns. In Proceedings of the CHI Conference on Human Factors in Computing Systems (CHI '24). Association for Computing Machinery, New York, NY, USA, Article 374, 1–11. [https://doi.org/10.1145/3613904.3642577](https://doi.org/10.1145/3613904.3642577)
 
