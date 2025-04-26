@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "MR Microsurgery Training"
+title:  "Microsurgery Training"
 date:   2023-01-30 00:28:00 +0900
 categories: projects
 image: /assets/images/microsurgery.jpg

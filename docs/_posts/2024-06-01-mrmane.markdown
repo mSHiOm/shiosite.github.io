@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "MR MANE: MR Microsurgical Suturing Skill Acquisition for Novice Using Imitation of Example"
+date:   2024-06-01 00:00:00 +0900
+categories: projects
+image: /assets/images/mrmicrosurgery.jpg
+---
+
+![]({{ page.image }})
+![](/assets/images/mrmane.png)
+
+#### Main Contributor: Yusuke Kojima
+
+#### Abstract
+The training of microsurgical suturing techniques in neurosurgery requires a considerable amount of time, and there is a need for training methods that enhance efficiency. Especially for novices, imitation of examples and receiving feedback from professionals are crucial elements in improving training efficiency. This paper proposes MR MANE, an MR application that applies the learning method of imitating examples and receiving real-time feedback to the training of microsurgical suturing techniques, aiming to enhance the efficiency of skill acquisition for novices. We conducted a user experiment involving 10 participants to verify whether imitating examples and real-time feedback enhances the efficiency of novices’ training in microsurgical suturing. The results demonstrated that imitating examples and real-time feedback effectively improves the skills of novices in a short period.
+
+***
+
+#### Citarion format
+1. Yusuke Kojima, Shio Miyafuji, Yuka Tashiro, Satoshi Kiyofuji, and Hideki Koike. 2024. MR MANE: MR Microsurgical Suturing Skill Acquisition for Novice Using Imitation of Example. In Proceedings of the 2024 International Conference on Advanced Visual Interfaces (AVI '24). Association for Computing Machinery, New York, NY, USA, Article 7, 1–5. [https://doi.org/10.1145/3656650.3656660](https://doi.org/10.1145/3656650.3656660)
