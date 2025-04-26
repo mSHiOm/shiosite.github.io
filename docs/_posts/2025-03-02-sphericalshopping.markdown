@@ -7,7 +7,7 @@ image: /assets/images/sphericalshopping.jpg
 ---
 
 ![]({{ page.image }})
-![](/assets/images/sphericalshopping.jpg)
+<!-- ![](/assets/images/sphericalshopping.jpg) -->
 
 #### Title: Remote Online Shopping System with 360-Degree Streaming and Spherical Display
 

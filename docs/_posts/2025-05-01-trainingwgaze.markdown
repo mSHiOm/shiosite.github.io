@@ -7,7 +7,7 @@ image: /assets/images/skillgaze.jpg
 ---
 
 ![]({{ page.image }})
-![](/assets/images/skillgaze.jpg)
+<!-- ![](/assets/images/skillgaze.jpg) -->
 
 #### Title: Enhancing Skill Acquisition in High Sensitivity Situations: A VR-Based Gaze Guidance Approach
 

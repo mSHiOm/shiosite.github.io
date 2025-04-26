@@ -7,7 +7,7 @@ image: /assets/images/mrmicroVST.jpg
 ---
 
 ![]({{ page.image }})
-![](/assets/images/mrmicroVST.jpg)
+<!-- ![](/assets/images/mrmicroVST.jpg) -->
 
 #### Main Contributor: Yuka Tashiro
 

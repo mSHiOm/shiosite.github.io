@@ -7,7 +7,7 @@ image: /assets/images/volume.jpg
 ---
 
 ![]({{ page.image }})
-![](/assets/images/volume.jpg)
+<!-- ![](/assets/images/volume.jpg) -->
 
 #### Title: Volu-Me Fan: Turn Your Layered-fan into a Volumetric Display
 

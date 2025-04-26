@@ -7,7 +7,7 @@ image: /assets/images/mosion.jpg
 ---
 
 ![]({{ page.image }})
-![](/assets/images/mosion.jpg)
+<!-- ![](/assets/images/mosion.jpg) -->
 
 #### Title: MOSion: Gaze Guidance with Motion-triggered Visual Cues by Mosaic Patterns
 

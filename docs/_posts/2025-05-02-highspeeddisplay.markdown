@@ -7,7 +7,7 @@ image: /assets/images/highspeeddisplay.jpg
 ---
 
 ![]({{ page.image }})
-![](/assets/images/highspeeddisplay.jpg)
+<!-- ![](/assets/images/highspeeddisplay.jpg) -->
 
 #### Title: Visual Effects Achieved through Temporal Additive Color Mixing on OLED Panels
 

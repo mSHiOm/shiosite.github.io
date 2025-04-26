@@ -7,7 +7,7 @@ image: /assets/images/motionaware.jpg
 ---
 
 ![]({{ page.image }})
-![](/assets/images/motionaware.jpg)
+<!-- ![](/assets/images/motionaware.jpg) -->
 
 #### Title: Motion-Aware Image Interaction Using Temporal Additive Color Mixing and High-Speed Projection
 

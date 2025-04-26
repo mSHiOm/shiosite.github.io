@@ -7,7 +7,7 @@ image: /assets/images/pdlcpp.jpg
 ---
 
 ![]({{ page.image }})
-![](/assets/images/pdlcpp.jpg)
+<!-- ![](/assets/images/pdlcpp.jpg) -->
 
 #### Title: Selective Information Display Using High-Speed Projector and PDLCs
 
