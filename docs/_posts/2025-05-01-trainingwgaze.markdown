@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Skill Acquisition by Gaze Guidance"
-date:   2025-05-01 00:00:00 +0900
+date:   2025-04-20 00:00:00 +0900
 categories: projects
 image: /assets/images/skillgaze.jpg
 ---

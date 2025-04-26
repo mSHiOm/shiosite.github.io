@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Motion-Aware with OLED Display"
-date:   2025-05-02 00:00:00 +0900
+date:   2025-04-21 00:00:00 +0900
 categories: projects
 image: /assets/images/highspeeddisplay.jpg
 ---
