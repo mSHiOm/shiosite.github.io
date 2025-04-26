@@ -3,7 +3,7 @@ layout: post
 title:  "MR Microsurgical Suture Training System with Level-Appropriate Support"
 date:   2024-05-01 00:00:00 +0900
 categories: projects
-image: /assets/images/mrmicrosurgery.jpg
+image: /assets/images/mrmicroVST.jpg
 ---
 
 ![]({{ page.image }})
@@ -17,4 +17,6 @@ The integration of advanced technologies in healthcare necessitates the developm
 ***
 
 #### Citarion format
-1. Yuka Tashiro, Shio Miyafuji, Yusuke Kojima, Satoshi Kiyofuji, Taichi Kin, Takeo Igarashi, and Hideki Koike. 2024. MR Microsurgical Suture Training System with Level-Appropriate Support. In Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems (CHI '24). Association for Computing Machinery, New York, NY, USA, Article 460, 1–19. [https://doi.org/10.1145/3613904.3642324] (https://doi.org/10.1145/3613904.3642324)
+1. Yuka Tashiro, Shio Miyafuji, Yusuke Kojima, Satoshi Kiyofuji, Taichi Kin, Takeo Igarashi, and Hideki Koike. 2024. MR Microsurgical Suture Training System with Level-Appropriate Support. In Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems (CHI '24). Association for Computing Machinery, New York, NY, USA, Article 460, 1–19. [https://doi.org/10.1145/3613904.3642324](https://doi.org/10.1145/3613904.3642324)
+
+2. Y. Tashiro, S. Miyafuji, S. Kiyofuji, T. Kin, T. Igarashi and H. Koike, "MR Microsurgical Suture Training System for Neurosurgeons," 2023 IEEE International Symposium on Mixed and Augmented Reality Adjunct (ISMAR-Adjunct), Sydney, Australia, 2023, pp. 458-459, doi: [10.1109/ISMAR-Adjunct60411.2023.00099](10.1109/ISMAR-Adjunct60411.2023.00099). keywords: {Training;Schedules;Resists;Microsurgery;Neurosurgery;Augmented reality;Human-centered computing;Human computer interaction (HCI);Visualization;Interaction design;Applied computing;Life and medical sciences;Education},
