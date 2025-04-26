@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "MR Microsurgical Suture Training System with Level-Appropriate Support"
+title:  "MR Microsurgical Training"
 date:   2024-05-01 00:00:00 +0900
 categories: projects
 image: /assets/images/mrmicroVST.jpg

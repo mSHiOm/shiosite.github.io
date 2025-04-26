@@ -1,13 +1,15 @@
 ---
 layout: post
-title:  "MR MANE: MR Microsurgical Suturing Skill Acquisition for Novice Using Imitation of Example"
+title:  "MR MANE"
 date:   2024-06-01 00:00:00 +0900
 categories: projects
-image: /assets/images/mrmicrosurgery.jpg
+image: /assets/images/mrmane.jpg
 ---
 
 ![]({{ page.image }})
 ![](/assets/images/mrmane.jpg)
+
+#### Title: MR MANE: MR Microsurgical Suturing Skill Acquisition for Novice Using Imitation of Example
 
 #### Main Contributor: Yusuke Kojima
 
