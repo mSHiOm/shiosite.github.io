@@ -15,7 +15,7 @@ School of Computing<br>
 Assistant Professor at Miyafuji Lab
 <br>
 東京工業大学情報理工学院 情報工学系<br>
-宮藤研究室 助教<br>
+宮藤研究室 テニュアトラック助教<br>
 <br>
 Publication 論文一覧：
 [Google Scholar Citation](https://scholar.google.com/citations?user=SuyJiqEAAAAJ&hl=ja&authuser=2&oi=ao) 
@@ -163,6 +163,10 @@ Publication 論文一覧：
 #### Demo and Poster 学会論文 (デモ/ポスター)
 
 #### Demo
+- Ryusuke Miyazaki, Shio Miyafuji, and Hideki Koike. 2025. Be Smart-Phone Zombie!: Guidance Display for Texting While Walking Using Striped Pattern and High-Speed Projection. In Adjunct Proceedings of the 27th International Conference on Mobile Human-Computer Interaction (MobileHCI '25 Adjunct). Association for Computing Machinery, New York, NY, USA, Article 19, 1–5. [https://doi.org/10.1145/3737821.3748531](https://doi.org/10.1145/3737821.3748531)
+
+- Shio Miyafuji, Arisa Kohtani, and Hideki Koike. 2025. Motion-Aware Image Interaction Using Temporal Additive Color Mixing and High-Speed Projection. In Proceedings of the Extended Abstracts of the CHI Conference on Human Factors in Computing Systems (CHI EA '25). Association for Computing Machinery, New York, NY, USA, Article 737, 1–4. [https://doi.org/10.1145/3706599.3721182](https://doi.org/10.1145/3706599.3721182)
+
 - Zhengqing Li, Shio Miyafuji, Erwin Wu, Toshiki Sato, Hideaki Kuzuoka, Hideki Koike:“OmniEyeball: An Interactive I/O Device For 360-Degree Video Communication.”, ACM, Interactive Surfaces and Spaces (ISS '18), pp.429-432, Tokyo, Japan, November 2018. [https://doi.org/10.1145/3279778.3279926](https://doi.org/10.1145/3279778.3279926)
 
 - Shio Miyafuji, Masato Sugasaki, and Hideki Koike. 2016. Ballumiere: Real-Time Tracking and Projection for High-Speed Moving Balls. In Adjunct Proceedings of the 29th Annual ACM Symposium on User Interface Software and Technology (UIST '16 Adjunct). Association for Computing Machinery, New York, NY, USA, 101–102. [https://doi.org/10.1145/2984751.2985717](https://doi.org/10.1145/2984751.2985717)
@@ -172,6 +176,12 @@ Publication 論文一覧：
 - Shio Miyafuji and Hideki Koike. 2015. Ballumiere: real-time tracking and projection system for high-speed flying balls. In SIGGRAPH Asia 2015 Emerging Technologies (SA '15). Association for Computing Machinery, New York, NY, USA, Article 2, 1. [https://doi.org/10.1145/2818466.2818492](https://doi.org/10.1145/2818466.2818492) (口頭発表有り)
 
 #### Poster
+
+- Hayato Yamaguchi and Shio Miyafuji. 2025. Enhancing Skill Acquisition in High Sensitivity Situations: A VR-Based Gaze Guidance Approach. In Proceedings of the 2025 Symposium on Eye Tracking Research and Applications (ETRA '25). Association for Computing Machinery, New York, NY, USA, Article 43, 1–3. [https://doi.org/10.1145/3715669.3726828](https://doi.org/10.1145/3715669.3726828)
+
+- Yuto Makimoto, Hideki Koike, and Shio Miyafuji. 2025. Eye Guidance System Applying Rhythm Game. In Proceedings of the 2025 Symposium on Eye Tracking Research and Applications (ETRA '25). Association for Computing Machinery, New York, NY, USA, Article 47, 1–3. [https://doi.org/10.1145/3715669.3726827](https://doi.org/10.1145/3715669.3726827)
+
+- Hidetaka Katsuyama, Shio Miyafuji, and Hideki Koike. 2024. DiskPlay: Dynamic Projection Mapping on Rotating Platforms for Extended Holographic Display. In SIGGRAPH Asia 2024 Posters (SA '24). Association for Computing Machinery, New York, NY, USA, Article 29, 1–2. [https://doi.org/10.1145/3681756.3697888](https://doi.org/10.1145/3681756.3697888)
 
 - Yuka Tashiro, Shio Miyafuji, Satoshi Kiyofuji, Taichi Kin, Takeo Igarashi and Hideki Koike, "MR Microsurgical Suture Training System for Neurosurgeons," 2023 IEEE International Symposium on Mixed and Augmented Reality Adjunct (ISMAR-Adjunct), Sydney, Australia, 2023, pp. 458-459, [https://doi.org/10.1109/ISMAR-Adjunct60411.2023.00099](https://doi.org/10.1109/ISMAR-Adjunct60411.2023.00099).
 

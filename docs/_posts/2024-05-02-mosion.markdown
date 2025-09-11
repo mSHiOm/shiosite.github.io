@@ -17,6 +17,10 @@ image: /assets/images/mosion.jpg
 We propose a gaze-guiding method called MOSion to adjust the guiding strength reacted to observers’ motion based on a high-speed projector and the afterimage effect in the human vision system. Our method decomposes the target area into mosaic patterns to embed visual cues in the perceived images. The patterns can only direct the attention of the moving observers to the target area. The stopping observer can see the original image with little distortion because of light integration in the visual perception. The precomputation of the patterns provides the adaptive guiding effect without tracking devices and computational costs depending on the movements. The evaluation and the user study show that the mosaic decomposition enhances the perceived saliency with a few visual artifacts, especially in moving conditions. Our method embedded in white lights works in various situations such as planar posters, advertisements, and curved objects.
 
 ***
+#### Video
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA69r6acyHM?si=fNn69xfoax63ZdqN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+***
 
 #### Citarion format
 1. Arisa Kohtani, Shio Miyafuji, Keishiro Uragaki, Hidetaka Katsuyama, and Hideki Koike. 2024. MOSion: Gaze Guidance with Motion-triggered Visual Cues by Mosaic Patterns. In Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems (CHI '24). Association for Computing Machinery, New York, NY, USA, Article 374, 1–11. [https://doi.org/10.1145/3613904.3642577](https://doi.org/10.1145/3613904.3642577)
