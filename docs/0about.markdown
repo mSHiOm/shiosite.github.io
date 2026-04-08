@@ -65,18 +65,19 @@ Publication 論文一覧：
 #### Committee Service 学会運営
 - 2018 - 2020 情報処理学会ヒューマンコンピュータインタラクション研究会　学生運営委員
 - 2019 - 2021 ACM CHI Symposium, Asian CHI Symposium Organizer
-- 2020 - &emsp;&ensp; Interaction Web委員
-- 2021 &emsp;&emsp;&ensp; CHI2021 Organizer: Social Media Chair
-- 2022 - &emsp;&ensp; WISS ボランティア委員
-- 2025 &emsp;&emsp;&ensp; CHI2025 Organizer: Social Media Chair
-- 2026 
-
+- 2020 - 2025 Interaction Web委員
+- 2021 &emsp;&emsp;&ensp; ACM CHI2021 Organizer: Social Media Chair
+- 2022 - &emsp;&ensp; WISS 運営委員 ボランティア委員
+- 2025 - &emsp;&ensp; VRHSA Workshop Organizer
+- 2025 &emsp;&emsp;&ensp; ACM CHI2025 Organizer: Social Media Chair
+- 2026 &emsp;&emsp;&ensp; ACM VRST2026 Organizer: Web Chair
 
 #### Professional Societies 所属学会
 - ACM
 - IEEE
 - 情報処理学会ヒューマンコンピュータインタラクション研究会
 - 日本ソフトウェア科学会  
+- 日本バーチャルリアリティ学会
 
 ### Research Funds 競争的資金獲得
 - 2025 日本学術振興会 科研費 基盤B
@@ -89,13 +90,24 @@ Publication 論文一覧：
 - 2016 東京工業大学基金130周年記念博士進学エンカレッジ奨学金
 
 
-### Awards and Inveited Talk / Invited Demo 表彰歴・招待講演/招待デモ
+### Awards and 
+- 2026 ACM CHI 2026 Honourable Mention Award  
+- 2025 ACM Mobile HCI 2025 Best Demo Award
+- 2024 表技協シンポジウム　第8回羽倉賞　奨励賞　
+- 2022 Augmented Humans 2022 Best Poster Award
+
+### Inveited Talk / Invited Demo 表彰歴・招待講演/招待デモ
+- 2026 情報処理学会第88回全国大会 IPSJ-ONE 2026 講演
+- 2025 表技協シンポジウム 第8回羽倉賞記念講演会
+- 2024 日本光学会 光設計研究グループ 第７７回研究会「人間拡張における光技術の利用」 講演
 - 2018 情報処理学会 第176回ヒューマンコンピュータインタラクション研究会　招待講演
 - 2016 Invited Demo at 18th Laval Virtual 2016
 
 ### Publication 出版
 
 #### Journal　学術論文
+- Jana Hoffard, Shio Miyafuji, and Hideki Koike. 2025. StringWall: A Low-Budget, Projection-Based Tangible User Interface. Proc. ACM Hum.-Comput. Interact. 9, 8, Article ISS015 (December 2025), 28 pages. [https://doi.org/10.1145/3773072](https://doi.org/10.1145/3773072)
+
 - Urakami, Jacqueline & Matulis, Henrique & Miyafuji, Shio & Li, Zhengqing & Koike, Hideki & Chignell, Mark. (2022). Comparing immersiveness and perceptibility of spherical and curved displays. Applied Ergonomics. 90. [https://doi.org/10.1016/j.apergo.2020.103271](https://doi.org/10.1016/j.apergo.2020.103271)
 
 - 宮藤詩緒, 佐藤俊樹, 小池英樹,「DisplayBowl: 半透過凹型半球面ディスプレイの試作と評価」, コンピュータソフトウェア, 日本ソフトウェア科学会, 37巻1号p.1_114-1_124, 2020.
@@ -107,6 +119,10 @@ Publication 論文一覧：
 #### Conference Paper 学会論文
 
 ##### International Conference
+- Shio Miyafuji, Arisa Kohtani, and Hideki Koike. 2026. Chromotion: Controlling Motion-Induced Color on Object Motion Paths via High-Speed Temporal Additive Projection. In Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems (CHI ’26), April 13–17, 2026, Barcelona, Spain. ACM, New York, NY, USA, 15 pages. [https://doi.org/10.1145/3772318.3791975](https://doi.org/10.1145/3772318.3791975) (**Honourable Mention Award**)
+
+- Masahiro Nara, Ryusuke Miyazaki, Yuichi Hiroi, Takefumi Hiraki, Yuta Itoh, and Shio Miyafuji. 2025. Saccaidance: Saccade-Aware Pattern Embedding for Gaze Guidance on High-Speed Displays. In Proceedings of the 2025 31st ACM Symposium on Virtual Reality Software and Technology (VRST '25). Association for Computing Machinery, New York, NY, USA, Article 36, 1–11. [https://doi.org/10.1145/3756884.3766051](https://doi.org/10.1145/3756884.3766051)
+
 - Yusuke Kojima, Shio Miyafuji, Yuka Tashiro, Satoshi Kiyofuji, and Hideki Koike. 2024. MR MANE: MR Microsurgical Suturing Skill Acquisition for Novice Using Imitation of Example. In Proceedings of the 2024 International Conference on Advanced Visual Interfaces (AVI '24). Association for Computing Machinery, New York, NY, USA, Article 7, 1–5. [https://doi.org/10.1145/3656650.3656660](https://doi.org/10.1145/3656650.3656660)
 
 - Arisa Kohtani, Shio Miyafuji, Keishiro Uragaki, Hidetaka Katsuyama, and Hideki Koike. 2024. MOSion: Gaze Guidance with Motion-triggered Visual Cues by Mosaic Patterns. In Proceedings of the CHI Conference on Human Factors in Computing Systems (CHI '24). Association for Computing Machinery, New York, NY, USA, Article 374, 1–11. [https://doi.org/10.1145/3613904.3642577](https://doi.org/10.1145/3613904.3642577)
@@ -144,6 +160,13 @@ Publication 論文一覧：
 - Shio Miyafuji, Masato Sugasaki, Hideki Koike:“Ballumiere: Real-time Tracking and Projection System for High-Speed Flying Balls”, ACM International Conference, Interactive Surfaces and Spaces (ISS ’16).ACM, pp.33–37, Niagara Falls, Ontario, Canada, November 2016. [https://doi.org/10.1145/2992154.2992181](https://doi.org/10.1145/2992154.2992181)
 
 ##### Domestic Conference
+- [登壇発表]　佐藤 響, 清藤 哲史, 宮藤 詩緒, "ロボット支援手術動画からの転移学習による顕微鏡縫合の熟練度推定と時系列可視化", 情報処理学会，インタラクション2026，INT26009, pp.61-69, 東京, 神保町, 2026年3月. [https://www.interaction-ipsj.org/proceedings/2026/data/bib/INT26009.html](https://www.interaction-ipsj.org/proceedings/2026/data/bib/INT26009.html)
+
+- [ロング採録] 竹内 大空, Jana Hoffard, Hsueh Han Wu, Kelvin Cheng, 宮藤 詩緒, 小池 英樹, "波紋表示による球面ディスプレイにおける視野外ポインティングの可視化", 日本ソフトウェア科学会, 第33回インタラクティブシステムとソフトウェアに関するワークショップ (WISS2025),No.5, pp.29-35, 北海道，定山渓，2025年12月. [https://www.wiss.org/WISS2025Proceedings/data/paper/05.pdf](https://www.wiss.org/WISS2025Proceedings/data/paper/05.pdf)
+
+- [ロング採録] 宮崎 竜輔, 宮藤 詩緒, 小池 英樹, "高速投影と時間方向の色分解による視線移動方向に応じた映像提示手法", 日本ソフトウェア科学会, 第33回インタラクティブシステムとソフトウェアに関するワークショップ (WISS2025), No.6, pp.36-43, 北海道，定山渓，2025年12月. [https://www.wiss.org/WISS2025Proceedings/data/paper/06.pdf](https://www.wiss.org/WISS2025Proceedings/data/paper/06.pdf)
+
+- [ロング採録] 幸谷 有紗, 宮藤 詩緒, 小池 英樹, "高速投影による運動物体の残像色制御手法", 日本ソフトウェア科学会, 第32回インタラクティブシステムとソフトウェアに関するワークショップ (WISS2024), No.3, pp.16-22, 新潟県, 苗場, 2024年12月. [https://www.wiss.org/WISS2025Proceedings/data/paper/06.pdf](https://www.wiss.org/WISS2025Proceedings/data/paper/06.pdf)
 
 - [ショート採録]　幸谷有紗，戛山英高，浦垣啓志郎，宮藤詩緒，小池 英樹, "動いている人の視線だけを惹きつけるモザイク投影手法", 日本ソフトウェア科学会, 第31回インタラクティブシステムとソフトウェアに関するワークショップ (WISS2023), No.20, pp.92-98, 長野県, 八ヶ岳, 2023年12月. [https://www.wiss.org/WISS2023Proceedings/data/20.pdf](https://www.wiss.org/WISS2023Proceedings/data/20.pdf) (**最優秀発表賞（プログラム委員）**)
 
@@ -164,7 +187,9 @@ Publication 論文一覧：
 #### Demo and Poster 学会論文 (デモ/ポスター)
 
 #### Demo
-- Ryusuke Miyazaki, Shio Miyafuji, and Hideki Koike. 2025. Be Smart-Phone Zombie!: Guidance Display for Texting While Walking Using Striped Pattern and High-Speed Projection. In Adjunct Proceedings of the 27th International Conference on Mobile Human-Computer Interaction (MobileHCI '25 Adjunct). Association for Computing Machinery, New York, NY, USA, Article 19, 1–5. [https://doi.org/10.1145/3737821.3748531](https://doi.org/10.1145/3737821.3748531)
+- Ryusuke Miyazaki, Shio Miyafuji, Kyeongwan Kim, and Hideki Koike. 2025. A Display Method Visible Only During Gaze Fixation on Moving Objects using High-Speed Projection and Striped Pattern. In Adjunct Proceedings of the 38th Annual ACM Symposium on User Interface Software and Technology (UIST Adjunct '25). Association for Computing Machinery, New York, NY, USA, Article 18, 1–3. [https://doi.org/10.1145/3746058.3759000](https://doi.org/10.1145/3746058.3759000)
+
+- Ryusuke Miyazaki, Shio Miyafuji, and Hideki Koike. 2025. Be Smart-Phone Zombie!: Guidance Display for Texting While Walking Using Striped Pattern and High-Speed Projection. In Adjunct Proceedings of the 27th International Conference on Mobile Human-Computer Interaction (MobileHCI '25 Adjunct). Association for Computing Machinery, New York, NY, USA, Article 19, 1–5. [https://doi.org/10.1145/3737821.3748531](https://doi.org/10.1145/3737821.3748531)　(**Best Demo Award**)
 
 - Shio Miyafuji, Arisa Kohtani, and Hideki Koike. 2025. Motion-Aware Image Interaction Using Temporal Additive Color Mixing and High-Speed Projection. In Proceedings of the Extended Abstracts of the CHI Conference on Human Factors in Computing Systems (CHI EA '25). Association for Computing Machinery, New York, NY, USA, Article 737, 1–4. [https://doi.org/10.1145/3706599.3721182](https://doi.org/10.1145/3706599.3721182)
 

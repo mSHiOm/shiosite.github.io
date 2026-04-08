@@ -20,4 +20,4 @@ frame sequence, its occlusion of the projected patterns can, through persistence
 ***
 
 #### Citarion format
-1. Shio Miyafuji, Arisa Kohtani, and Hideki Koike. 2026. Chromotion: Controlling Motion-Induced Color on Object Motion Paths via High-Speed Temporal Additive Projection. In Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems (CHI ’26), April 13–17, 2026, Barcelona, Spain. ACM, New York, NY, USA, 15 pages. [https://doi.org/10.1145/3772318.3791975](https://doi.org/10.1145/3772318.3791975)
+1. Shio Miyafuji, Arisa Kohtani, and Hideki Koike. 2026. Chromotion: Controlling Motion-Induced Color on Object Motion Paths via High-Speed Temporal Additive Projection. In Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems (CHI ’26), April 13–17, 2026, Barcelona, Spain. ACM, New York, NY, USA, 15 pages. [https://doi.org/10.1145/3772318.3791975](https://doi.org/10.1145/3772318.3791975) (**Honourable Mention Award**)
