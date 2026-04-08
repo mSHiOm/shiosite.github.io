@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Directional-Aware Display"
-date:   2025-04-22 00:00:00 +0900
+date:   2025-10-01 00:00:00 +0900
 categories: projects
-image: /assets/images/chromotion.jpg
+image: /assets/images/directional.jpg
 ---
 
 ![]({{ page.image }})
-<!-- ![](/assets/images/motionaware.jpg) -->
+<!-- ![](/assets/images/directional.jpg) -->
 
 #### Title: Directionl-Aware Display
 

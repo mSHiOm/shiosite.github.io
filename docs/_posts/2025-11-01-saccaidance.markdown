@@ -7,7 +7,7 @@ image: /assets/images/saccaidance.jpg
 ---
 
 ![]({{ page.image }})
-<!-- ![](/assets/images/motionaware.jpg) -->
+<!-- ![](/assets/images/saccaidance.jpg) -->
 
 #### Title: Saccaidance: Saccade-Aware Pattern Embedding for Gaze Guidance on High-Speed Displays
 

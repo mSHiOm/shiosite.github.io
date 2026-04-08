@@ -10,11 +10,11 @@ image: /assets/images/profile.jpg
 
 ## Shio Miyafuji 
 ## 宮藤 詩緒
-Tokyo Institute of Technology
+Institute of Science Tokyo
 School of Computing<br>
 Assistant Professor at Miyafuji Lab
 <br>
-東京工業大学情報理工学院 情報工学系<br>
+東京科学大学情報理工学院 情報工学系<br>
 宮藤研究室 テニュアトラック助教<br>
 <br>
 Publication 論文一覧：
@@ -69,6 +69,7 @@ Publication 論文一覧：
 - 2021 &emsp;&emsp;&ensp; CHI2021 Organizer: Social Media Chair
 - 2022 - &emsp;&ensp; WISS ボランティア委員
 - 2025 &emsp;&emsp;&ensp; CHI2025 Organizer: Social Media Chair
+- 2026 
 
 
 #### Professional Societies 所属学会
