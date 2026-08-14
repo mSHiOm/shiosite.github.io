@@ -119,6 +119,10 @@ Publication 論文一覧：
 #### Conference Paper 学会論文
 
 ##### International Conference
+- Ryusuke Miyazaki, Shio Miyafuji, and Hideki Koike. 2026. DirectionalIllusion: Displaying Different Images Based on Gaze Movement Directions using a High-Speed Projector. In Proceedings of the 2026 International Conference on Advanced Visual Interfaces (AVI '26). Association for Computing Machinery, New York, NY, USA, Article 6, 1–9. [https://doi.org/10.1145/3811427.3811447](https://doi.org/10.1145/3811427.3811447)
+
+- Shun Iwatake and Shio Miyafuji. 2026. Supporting Gaze Training for Microsurgical Suturing Using Task-Region Highlighting. In Proceedings of the 2026 Symposium on Eye Tracking Research and Applications (ETRA '26). Association for Computing Machinery, New York, NY, USA, Article 24, 1–6. [https://doi.org/10.1145/3797246.3803030](https://doi.org/10.1145/3797246.3803030)
+
 - Shio Miyafuji, Arisa Kohtani, and Hideki Koike. 2026. Chromotion: Controlling Motion-Induced Color on Object Motion Paths via High-Speed Temporal Additive Projection. In Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems (CHI ’26), April 13–17, 2026, Barcelona, Spain. ACM, New York, NY, USA, 15 pages. [https://doi.org/10.1145/3772318.3791975](https://doi.org/10.1145/3772318.3791975) (**Honourable Mention Award**)
 
 - Masahiro Nara, Ryusuke Miyazaki, Yuichi Hiroi, Takefumi Hiraki, Yuta Itoh, and Shio Miyafuji. 2025. Saccaidance: Saccade-Aware Pattern Embedding for Gaze Guidance on High-Speed Displays. In Proceedings of the 2025 31st ACM Symposium on Virtual Reality Software and Technology (VRST '25). Association for Computing Machinery, New York, NY, USA, Article 36, 1–11. [https://doi.org/10.1145/3756884.3766051](https://doi.org/10.1145/3756884.3766051)
@@ -187,6 +191,8 @@ Publication 論文一覧：
 #### Demo and Poster 学会論文 (デモ/ポスター)
 
 #### Demo
+- Shinichi Ishihara, Ryusuke Miyazaki, Shio Miyafuji, and Hiroyuki Manabe. 2026. DIM3: Display as an Interface Medium to Three-dimension with Swept a Bending-Plastic-Plate. In Proceedings of the Extended Abstracts of the 2026 CHI Conference on Human Factors in Computing Systems (CHI EA '26). Association for Computing Machinery, New York, NY, USA, Article 829, 1–5. [https://doi.org/10.1145/3772363.3799151](https://doi.org/10.1145/3772363.3799151)
+
 - Ryusuke Miyazaki, Shio Miyafuji, Kyeongwan Kim, and Hideki Koike. 2025. A Display Method Visible Only During Gaze Fixation on Moving Objects using High-Speed Projection and Striped Pattern. In Adjunct Proceedings of the 38th Annual ACM Symposium on User Interface Software and Technology (UIST Adjunct '25). Association for Computing Machinery, New York, NY, USA, Article 18, 1–3. [https://doi.org/10.1145/3746058.3759000](https://doi.org/10.1145/3746058.3759000)
 
 - Ryusuke Miyazaki, Shio Miyafuji, and Hideki Koike. 2025. Be Smart-Phone Zombie!: Guidance Display for Texting While Walking Using Striped Pattern and High-Speed Projection. In Adjunct Proceedings of the 27th International Conference on Mobile Human-Computer Interaction (MobileHCI '25 Adjunct). Association for Computing Machinery, New York, NY, USA, Article 19, 1–5. [https://doi.org/10.1145/3737821.3748531](https://doi.org/10.1145/3737821.3748531)　(**Best Demo Award**)
@@ -202,6 +208,10 @@ Publication 論文一覧：
 - Shio Miyafuji and Hideki Koike. 2015. Ballumiere: real-time tracking and projection system for high-speed flying balls. In SIGGRAPH Asia 2015 Emerging Technologies (SA '15). Association for Computing Machinery, New York, NY, USA, Article 2, 1. [https://doi.org/10.1145/2818466.2818492](https://doi.org/10.1145/2818466.2818492) (口頭発表有り)
 
 #### Poster
+
+- Shun Iwatake, Ayaka Ishii, Masahiro Nara, and Shio Miyafuji. 2026. Ambient Foam Augmentation for Japanese Tea Ceremony with Electrolysis Bubbles. In Companion Publication of the 2026 ACM Designing Interactive Systems Conference (DIS '26 Companion). Association for Computing Machinery, New York, NY, USA, 339–342. [https://doi.org/10.1145/3802974.3809442](https://doi.org/10.1145/3802974.3809442)
+
+- Ryusuke Miyazaki, Shio Miyafuji, and Hideki Koike. 2025. An Experiment on a High-Speed Image Projection Perceived Only During Smooth Pursuit using Striped Patterns. In Proceedings of the 2025 31st ACM Symposium on Virtual Reality Software and Technology (VRST '25). Association for Computing Machinery, New York, NY, USA, Article 118, 1–2. [https://doi.org/10.1145/3756884.3770537](https://doi.org/10.1145/3756884.3770537)
 
 - Hayato Yamaguchi and Shio Miyafuji. 2025. Enhancing Skill Acquisition in High Sensitivity Situations: A VR-Based Gaze Guidance Approach. In Proceedings of the 2025 Symposium on Eye Tracking Research and Applications (ETRA '25). Association for Computing Machinery, New York, NY, USA, Article 43, 1–3. [https://doi.org/10.1145/3715669.3726828](https://doi.org/10.1145/3715669.3726828)
 
