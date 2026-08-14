@@ -80,6 +80,7 @@ Publication 論文一覧：
 - 日本バーチャルリアリティ学会
 
 ### Research Funds 競争的資金獲得
+- 2026 日本学術振興会 科研費 挑戦的研究（萌芽）
 - 2025 日本学術振興会 科研費 基盤B
 - 2023 科学技術振興機構(JST) さきがけ
 - 2021 日本学術振興会 科研費 若手研究
@@ -91,6 +92,7 @@ Publication 論文一覧：
 
 
 ### Awards and 
+- 2026 APMAR 2026 Best Demo Award
 - 2026 ACM CHI 2026 Honourable Mention Award  
 - 2025 ACM Mobile HCI 2025 Best Demo Award
 - 2024 表技協シンポジウム　第8回羽倉賞　奨励賞　
